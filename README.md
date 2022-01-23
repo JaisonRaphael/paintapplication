@@ -214,7 +214,7 @@ Publish the website in the given URL.
 ## OUTPUT:
 ### blank paint application:
 
-![Git](p2.png)
+![Git]("C:\Users\Jaison\OneDrive\Documents\paint\paintapplication\P1.png")
 ### blank paint application:
 
 ![Git](p1.png)
