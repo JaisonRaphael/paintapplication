@@ -214,10 +214,12 @@ Publish the website in the given URL.
 ## OUTPUT:
 ### blank paint application:
 
-![Git](p1.png)
+![WhatsApp Image 2022-01-23 at 22 43 25](https://user-images.githubusercontent.com/94165957/150690568-bb13d6f8-802f-457e-be62-70cb09895f1a.jpeg)
+
 ### blank paint application:
 
-![Git](p2.png)
+![WhatsApp Image 2022-01-23 at 22 43 09](https://user-images.githubusercontent.com/94165957/150690581-0efc8d60-c100-4658-8882-c36e05d8985a.jpeg)
+
 
 
 ## Result:
