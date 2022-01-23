@@ -214,10 +214,10 @@ Publish the website in the given URL.
 ## OUTPUT:
 ### blank paint application:
 
-![Git]("C:\Users\Jaison\OneDrive\Pictures\Screenshots\P2.png")
+![Git](p1.png)
 ### blank paint application:
 
-![Git]("C:\Users\Jaison\OneDrive\Documents\paint\paintapplication\P1.png")
+![Git](p2.png)
 
 
 ## Result:
